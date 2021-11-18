@@ -1,7 +1,7 @@
-##👋 Hola, I’m Marian
-##- 👀 I’m interested in ...
+## 👋 Hola, I’m Marian
+## 👀 I’m interested in ...
 ## 🌱 I’m currently learning 
-[![Linkedin Badge](https://img.shields.io/badge/Brizy-website%20builder%20-lightgrey)
+[!Linkedin Badge](https://img.shields.io/badge/Brizy-website%20builder%20-lightgrey)
 
 ## 📫 How to reach me ...
 
